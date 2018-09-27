@@ -1,0 +1,1 @@
+ID: 58; Zone: 2; FriendList: [24,35,15,99,31,93,43,32,2]; Tokens: [5-58,11-58,17-58,14-58,2-58,18-58,9-58,10-58,19-58,16-58,20-58,13-58]; Reputation: [{Node: 31,Reputation: 0},{Node: 93,Reputation: 0},{Node: 99,Reputation: 0},{Node: 15,Reputation: 0},{Node: 21,Reputation: 0},{Node: 35,Reputation: 0},{Node: 43,Reputation: 0},{Node: 24,Reputation: 0},{Node: 32,Reputation: 19]

@@ -1,0 +1,1 @@
+ID: 4; Zone: 4; FriendList: [96,91,50,39,33,20,2]; Tokens: [18-4,4-4,17-4,20-4,1-4,9-4,7-4,19-4,13-4,2-4]; Reputation: [{Node: 20,Reputation: 0},{Node: 21,Reputation: 2},{Node: 33,Reputation: 3},{Node: 39,Reputation: 0},{Node: 91,Reputation: 0},{Node: 96,Reputation: 0},{Node: 50,Reputation: 3]
